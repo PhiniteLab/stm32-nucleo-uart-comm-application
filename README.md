@@ -97,7 +97,7 @@ have been made in the .ioc file as in the image:
 
 
 
-**General System Diagram **
+**General System Diagram**
 
 <p align="center">
   <img src="images/7.png">
