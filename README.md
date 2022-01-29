@@ -11,7 +11,7 @@ processors.
 
 **Communication Protocol**
 <p align="center">
-  <img src="images/1.png">
+  <img src="images/1.PNG">
 </p>
 
 
